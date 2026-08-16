@@ -1,0 +1,2 @@
+# Student-Study-Planner
+This is a personal dashboard where a student can manage subjects, tasks, deadlines, timetable, and exams.
