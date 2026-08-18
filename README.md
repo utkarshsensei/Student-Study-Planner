@@ -1,1 +1,1 @@
-This is a personal dashboard where a student can manage subjects, tasks, deadlines, timetable, and exams.
+This is a personal dashboard where a student can manage subjects, tasks, deadlines, timetable, and exams and save a lot of time.
